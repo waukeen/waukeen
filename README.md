@@ -14,10 +14,6 @@ software which enables the use of this currency.
 
 Waukeens is fork of bitcoin.
 
-For more information, as well as an immediately useable, binary version of
-the Waukeen Core software, see https://Waukeencore.org/en/download/, or read the
-[original whitepaper](https://Waukeencore.org/Waukeen.pdf).
-
 License
 -------
 
